@@ -1,1 +1,5 @@
-print('hello, world')
+print("hello world")
+print("bye,bye")
+print("my world")
+print("cheer")
+print("final")
